@@ -1,7 +1,7 @@
 # journal application
 ## write a description of the application's uses
 ##### and the prerequisite understanding for writing it
-##### link to other document covering techniques <br/>needed for completing project
+##### link to other document covering techniques needed for completing project
 ## write a very brief history of the terminal and it's uses
 ## write steps taken to create the application:
 ### installing interpreter and importing dependencies
